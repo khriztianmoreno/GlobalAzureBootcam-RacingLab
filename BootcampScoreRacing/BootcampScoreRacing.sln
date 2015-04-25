@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampScoreRacing", "BootcampScoreRacing\BootcampScoreRacing.csproj", "{11A02421-3083-416B-97FE-18152C28CA45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{79A5915E-BD42-4BD1-8DCF-467C8178ED2D}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\AzureWebsitePublishModule.psm1 = PublishScripts\AzureWebsitePublishModule.psm1
+		PublishScripts\Publish-WebApplicationWebsite.ps1 = PublishScripts\Publish-WebApplicationWebsite.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{4388C433-0D63-494A-8D4A-D7F4C60281B7}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Configurations\BootcampScoreRacing-WAWS-dev.json = PublishScripts\Configurations\BootcampScoreRacing-WAWS-dev.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A02421-3083-416B-97FE-18152C28CA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A02421-3083-416B-97FE-18152C28CA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A02421-3083-416B-97FE-18152C28CA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A02421-3083-416B-97FE-18152C28CA45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4388C433-0D63-494A-8D4A-D7F4C60281B7} = {79A5915E-BD42-4BD1-8DCF-467C8178ED2D}
+	EndGlobalSection
+EndGlobal

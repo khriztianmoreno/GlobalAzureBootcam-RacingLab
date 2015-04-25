@@ -1,0 +1,5 @@
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\bin\BootcampScoreRacing.dll.config
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\bin\BootcampScoreRacing.dll
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\bin\BootcampScoreRacing.pdb
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\obj\Release\BootcampScoreRacing.dll
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\obj\Release\BootcampScoreRacing.pdb

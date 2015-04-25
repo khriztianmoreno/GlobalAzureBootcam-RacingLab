@@ -1,0 +1,6 @@
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\bin\BootcampScoreRacing.dll.config
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\bin\BootcampScoreRacing.dll
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\bin\BootcampScoreRacing.pdb
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\obj\Debug\BootcampScoreRacing.csprojResolveAssemblyReference.cache
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\obj\Debug\BootcampScoreRacing.dll
+D:\Projects\Avanet\BootcampScoreRacing\BootcampScoreRacing\obj\Debug\BootcampScoreRacing.pdb
